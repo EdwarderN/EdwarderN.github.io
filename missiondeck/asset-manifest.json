@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/missiondeck/static/css/main.689ae53f.css",
-    "main.js": "/missiondeck/static/js/main.ed231385.js",
+    "main.js": "/missiondeck/static/js/main.4d84d70b.js",
     "static/js/787.3244a0fd.chunk.js": "/missiondeck/static/js/787.3244a0fd.chunk.js",
     "static/media/Gambit-Attacker11.55.png": "/missiondeck/static/media/Gambit-Attacker11.55.46f5b1426eeac7fa3651.png",
     "static/media/MissionRule17.44.png": "/missiondeck/static/media/MissionRule17.44.de4d069942cd576e6e73.png",
@@ -73,11 +73,11 @@
     "static/media/attacker.png": "/missiondeck/static/media/attacker.7227c4a81efe7ebabf1c.png",
     "index.html": "/missiondeck/index.html",
     "main.689ae53f.css.map": "/missiondeck/static/css/main.689ae53f.css.map",
-    "main.ed231385.js.map": "/missiondeck/static/js/main.ed231385.js.map",
+    "main.4d84d70b.js.map": "/missiondeck/static/js/main.4d84d70b.js.map",
     "787.3244a0fd.chunk.js.map": "/missiondeck/static/js/787.3244a0fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.689ae53f.css",
-    "static/js/main.ed231385.js"
+    "static/js/main.4d84d70b.js"
   ]
 }
