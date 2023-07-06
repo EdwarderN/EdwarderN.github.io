@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/missiondeck/static/css/main.689ae53f.css",
-    "main.js": "/missiondeck/static/js/main.a5200cc8.js",
+    "main.js": "/missiondeck/static/js/main.ed231385.js",
     "static/js/787.3244a0fd.chunk.js": "/missiondeck/static/js/787.3244a0fd.chunk.js",
     "static/media/Gambit-Attacker11.55.png": "/missiondeck/static/media/Gambit-Attacker11.55.46f5b1426eeac7fa3651.png",
     "static/media/MissionRule17.44.png": "/missiondeck/static/media/MissionRule17.44.de4d069942cd576e6e73.png",
@@ -67,17 +67,17 @@
     "static/media/Deployment10.png": "/missiondeck/static/media/Deployment10.24c83fa67d0d8db193ac.png",
     "static/media/Deployment11.png": "/missiondeck/static/media/Deployment11.f6dbcb77ca6e856bb977.png",
     "static/media/Deployment2.png": "/missiondeck/static/media/Deployment2.944df111dff9bed58768.png",
-    "static/media/Deployment1.png": "/missiondeck/static/media/Deployment1.527490abbc02252adb19.png",
     "static/media/Deployment0.png": "/missiondeck/static/media/Deployment0.75974acc1705e2abb280.png",
+    "static/media/Deployment1.png": "/missiondeck/static/media/Deployment1.4aade9be9fa0acbe4ceb.png",
     "static/media/defender.png": "/missiondeck/static/media/defender.b4d9063811bb925e4ceb.png",
     "static/media/attacker.png": "/missiondeck/static/media/attacker.7227c4a81efe7ebabf1c.png",
     "index.html": "/missiondeck/index.html",
     "main.689ae53f.css.map": "/missiondeck/static/css/main.689ae53f.css.map",
-    "main.a5200cc8.js.map": "/missiondeck/static/js/main.a5200cc8.js.map",
+    "main.ed231385.js.map": "/missiondeck/static/js/main.ed231385.js.map",
     "787.3244a0fd.chunk.js.map": "/missiondeck/static/js/787.3244a0fd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.689ae53f.css",
-    "static/js/main.a5200cc8.js"
+    "static/js/main.ed231385.js"
   ]
 }
